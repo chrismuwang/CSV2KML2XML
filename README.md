@@ -1,6 +1,6 @@
 # CSV2KML2XML
 
-## Authors: Sohaib & Christina
+## Authors: Christina & Sohaib
 
 This program can convert csv to kml given that the csv file is formatted as: 
 
